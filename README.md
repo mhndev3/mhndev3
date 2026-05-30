@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Backend+Engineer;Telegram+Bot+Developer;Automation+%26+System+Builder;Node.js+%7C+Python+%7C+Next.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Engineer;Telegram+Bot+Developer;Automation+System+Builder;Node.js+%7C+Python+%7C+Next.js" />
 </p>
 
 # 👋 MHN
@@ -12,27 +12,31 @@
 
 ---
 
-## 🧠 Profile Summary
+## 🧠 About Me
 
-I design and build scalable backend systems, automation tools, and Telegram-based solutions.  
-Focused on performance, simplicity, and real-world usable systems rather than experimental code.
+<p align="center">
+
+Building scalable backend systems, automation tools, and Telegram-based solutions.  
+Focused on clean architecture, performance, and real-world production systems.
+
+</p>
 
 ---
 
 ## ⚙️ Core Expertise
 
-- 🔧 Backend system architecture
-- 🤖 Telegram bot development (advanced workflows)
-- ⚡ Automation systems & task orchestration
-- 🌐 Full-stack web applications
-- 🔌 API design and integration
-- 🖥️ Linux VPS deployment & management
+- Backend system architecture  
+- Telegram bot development (advanced)  
+- API design & integration  
+- Automation & workflow systems  
+- VPS deployment & Linux servers  
+- Full-stack web development  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -41,7 +45,7 @@ Focused on performance, simplicity, and real-world usable systems rather than ex
 
 ---
 
-### Frameworks & Runtime
+### ⚙️ Frameworks & Runtime
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -49,26 +53,27 @@ Focused on performance, simplicity, and real-world usable systems rather than ex
 
 ---
 
-### Infrastructure & DevOps
-- Linux (Ubuntu Server)
-- VPS deployment & configuration
-- Process management (PM2, screen)
-- Environment & production setup
-- Basic server debugging & optimization
+### ☁️ DevOps & Servers
+- Linux (Ubuntu VPS)
+- Deployment & Hosting
+- Process Management (pm2 / screen)
+- Environment configuration (.env)
+- Server debugging basics
 
 ---
 
-### Backend & Systems
-- RESTful API development
-- Webhook-based systems
-- Authentication (JWT / token systems)
-- Real-time bot architectures
-- Data scraping & automation pipelines
+### 🤖 Backend & Automation
+- REST API Development  
+- Telegram Bot API (advanced)  
+- Webhook systems  
+- Authentication (JWT / tokens)  
+- Automation pipelines  
+- Data scraping basics  
 
 ---
 
-### Databases
-- MongoDB (Intermediate)
+### 🗄️ Databases
+- MongoDB (Intermediate)  
 - MySQL (Basic–Intermediate)
 
 ---
@@ -86,22 +91,30 @@ Focused on performance, simplicity, and real-world usable systems rather than ex
 
 ---
 
-## 🎯 Working Philosophy
+## 📈 Activity Graph
 
-- Build systems that scale, not just scripts that run
-- Automate everything repeatable
-- Keep architecture simple but expandable
-- Focus on production-ready solutions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhndev3&theme=react-dark&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Philosophy
+
+- Build systems, not scripts  
+- Automate repetitive work  
+- Keep architecture simple but scalable  
+- Focus on production-ready solutions  
 
 ---
 
 ## 📫 Contact
 
-- Telegram: @yourid  
-- Email: yourmail@example.com  
+- Telegram: @ssh0001000 
+- Email: mhndev3@gmail.com  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=140&section=footer"/>
 </p>
