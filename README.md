@@ -79,28 +79,6 @@ Full-stack web app with modern frontend architecture and API routes.
 
 ---
 
-const https = require("https");
-
-const username = "mhndev3";
-
-https.get(`https://api.github.com/users/${username}`, {
-  headers: { "User-Agent": "node" }
-}, (res) => {
-  let data = "";
-
-  res.on("data", chunk => data += chunk);
-
-  res.on("end", () => {
-    const user = JSON.parse(data);
-
-    console.log("📊 GitHub Stats");
-    console.log("Repos:", user.public_repos);
-    console.log("Followers:", user.followers);
-    console.log("Following:", user.following);
-  });
-});
----
-
 ## 📈 Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhndev3&theme=react-dark)
