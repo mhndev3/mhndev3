@@ -2,25 +2,37 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
 </p>
 
-# 👋 Hi, I'm MHN
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Backend+Engineer;Telegram+Bot+Developer;Automation+%26+System+Builder;Node.js+%7C+Python+%7C+Next.js" />
+</p>
 
-🚀 Full-Stack Developer | 🤖 Bot Engineer | ⚙️ Automation & Backend Systems
+# 👋 MHN
+
+🚀 Full-Stack Developer | 🤖 Bot Engineer | ⚙️ Backend & Automation Specialist
 
 ---
 
-## 🧠 About Me
+## 🧠 Profile Summary
 
-- 🔭 Building automation systems, Telegram bots, and web applications
-- ⚙️ Focused on backend development and scalable architectures
-- 🌱 Currently improving full-stack development with Node.js & Next.js
-- 💬 Interested in APIs, bots, VPS infrastructure, and system design
-- ⚡ I automate everything repetitive until it disappears
+I design and build scalable backend systems, automation tools, and Telegram-based solutions.  
+Focused on performance, simplicity, and real-world usable systems rather than experimental code.
+
+---
+
+## ⚙️ Core Expertise
+
+- 🔧 Backend system architecture
+- 🤖 Telegram bot development (advanced workflows)
+- ⚡ Automation systems & task orchestration
+- 🌐 Full-stack web applications
+- 🔌 API design and integration
+- 🖥️ Linux VPS deployment & management
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -29,58 +41,39 @@
 
 ---
 
-### ⚙️ Frameworks & Runtime
+### Frameworks & Runtime
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
 ---
 
-### 🤖 Backend & APIs
-- REST API Development  
-- Telegram Bot API (Advanced)  
-- Webhook Systems  
-- Authentication Systems (JWT / Token-based basics)
+### Infrastructure & DevOps
+- Linux (Ubuntu Server)
+- VPS deployment & configuration
+- Process management (PM2, screen)
+- Environment & production setup
+- Basic server debugging & optimization
 
 ---
 
-### 🗄️ Databases
-- MongoDB (Intermediate)  
+### Backend & Systems
+- RESTful API development
+- Webhook-based systems
+- Authentication (JWT / token systems)
+- Real-time bot architectures
+- Data scraping & automation pipelines
+
+---
+
+### Databases
+- MongoDB (Intermediate)
 - MySQL (Basic–Intermediate)
 
 ---
 
-### ☁️ DevOps & Servers
-- Linux VPS Management (Ubuntu)  
-- Deployment & Hosting on VPS  
-- Process Management (screen / pm2)  
-- Environment Configuration (.env handling)
-
----
-
-### 🤖 Automation & Bots
-- Telegram Bot Development (Advanced)  
-- Data scraping & automation systems  
-- Scheduling & task automation  
-- Content automation tools  
-
----
-
-## 🔥 Featured Projects
-
-### 🤖 Telegram Automation System
-Automation system for scheduling, API integration and bot workflows on Telegram.
-
-### ⚙️ Node.js Backend API
-REST API with authentication, database integration and bot support.
-
-### 🌐 Next.js Web Application
-Full-stack web app with modern frontend architecture and API routes.
-
----
-
-## 📊 GitHub Overview
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhndev3&theme=radical"/>
@@ -90,6 +83,15 @@ Full-stack web app with modern frontend architecture and API routes.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhndev3&theme=radical"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhndev3&theme=radical"/>
 </p>
+
+---
+
+## 🎯 Working Philosophy
+
+- Build systems that scale, not just scripts that run
+- Automate everything repeatable
+- Keep architecture simple but expandable
+- Focus on production-ready solutions
 
 ---
 
