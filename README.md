@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Engineer;Telegram+Bot+Developer;Automation+System+Builder;Node.js+%7C+Python+%7C+Next.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Backend+Engineer;Telegram+Bot+Developer;Automation+System+Builder;Node.js+%7C+Python+%7C+Next.js" />
 </p>
 
 # 👋 MHN
 
-🚀 Full-Stack Developer | 🤖 Bot Engineer | ⚙️ Backend & Automation Specialist
+🚀 Frontend Developer | 🤖 Bot Engineer | ⚙️ Backend & Automation Specialist
 
 ---
 
@@ -30,7 +30,7 @@ Focused on clean architecture, performance, and real-world production systems.
 - API design & integration  
 - Automation & workflow systems  
 - VPS deployment & Linux servers  
-- Full-stack web development  
+- Frontend web development  
 
 ---
 
