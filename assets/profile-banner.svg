@@ -1,34 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Mahan Dev — cute pastel developer profile</title>
-<desc id="desc">A pastel anime-inspired night sky with sakura petals, a tiny cat coding at a laptop, and the text Mahan Dev.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
+<title id="t">mhndev3 — anime developer profile</title><desc id="d">A custom anime-inspired developer girl with headphones coding beneath cherry blossoms, with English and Japanese text.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17152f"/><stop offset=".52" stop-color="#33264f"/><stop offset="1" stop-color="#68446f"/></linearGradient>
-  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffc5dc"/><stop offset="1" stop-color="#b7c8ff"/></linearGradient>
-  <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090817"/><stop offset=".52" stop-color="#21133e"/><stop offset="1" stop-color="#391c50"/></linearGradient>
+ <linearGradient id="hair" x2="1" y2="1"><stop stop-color="#211735"/><stop offset=".5" stop-color="#75408f"/><stop offset="1" stop-color="#171126"/></linearGradient>
+ <linearGradient id="shine" x2="1" y2="0"><stop stop-color="#f5a5ed"/><stop offset="1" stop-color="#9b8cff"/></linearGradient>
+ <radialGradient id="moon"><stop stop-color="#ffe2fb"/><stop offset="1" stop-color="#b78be9"/></radialGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="16"/></filter>
 </defs>
-<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-<circle cx="930" cy="95" r="110" fill="#f5a9cf" opacity=".18" filter="url(#blur)"/>
-<circle cx="180" cy="280" r="100" fill="#9e9aff" opacity=".18" filter="url(#blur)"/>
-<g fill="#fff1fa" opacity=".85"><circle cx="95" cy="65" r="2"/><circle cx="260" cy="110" r="2"/><circle cx="430" cy="42" r="1.8"/><circle cx="700" cy="75" r="2"/><circle cx="820" cy="230" r="1.7"/><circle cx="1080" cy="55" r="2"/><circle cx="1120" cy="270" r="1.5"/><circle cx="600" cy="300" r="1.6"/></g>
-<g fill="#ffc5dc" opacity=".9"><path d="M1030 145c-12-13-26 3-12 14 10 8 18-4 12-14Zm-23 8c-17-6-21 13-5 17 12 2 14-12 5-17Zm18 21c-4 17 16 19 18 3 1-12-13-14-18-3Zm22-18c14-11 1-26-11-14-8 9 2 18 11 14Z"/><circle cx="1031" cy="164" r="4" fill="#ffe8f3"/></g>
-<g transform="translate(835 95)">
-  <path d="M30 112c0-49 34-83 78-83s78 34 78 83v48H30z" fill="#f6dce9"/>
-  <path d="M44 55 28 13q-3-10 8-5l38 26M172 55l16-42q3-10-8-5l-38 26" fill="#f6dce9" stroke="#f6dce9" stroke-width="7" stroke-linejoin="round"/>
-  <path d="M66 91q8-11 16 0M132 91q8-11 16 0" fill="none" stroke="#59435f" stroke-width="5" stroke-linecap="round"/>
-  <path d="M101 105q6 7 12 0" fill="none" stroke="#d77fa7" stroke-width="4" stroke-linecap="round"/>
-  <circle cx="58" cy="105" r="9" fill="#f2a6c7" opacity=".8"/><circle cx="157" cy="105" r="9" fill="#f2a6c7" opacity=".8"/>
-  <path d="M53 155q55-31 110 0v30H53z" fill="#c8b5ed"/>
-  <rect x="63" y="139" width="95" height="58" rx="8" fill="#34314f" stroke="#f8c6df" stroke-width="4"/>
-  <rect x="71" y="147" width="79" height="42" rx="4" fill="#a7c9ff"/>
-  <path d="M79 160h30m-30 8h44m-44 8h23" stroke="#514c78" stroke-width="3" stroke-linecap="round"/>
-  <path d="M48 198h125l-12 10H60z" fill="#f5c6df"/>
+<rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+<circle cx="930" cy="95" r="88" fill="#c27bff" opacity=".18" filter="url(#glow)"/><circle cx="930" cy="95" r="52" fill="url(#moon)" opacity=".9"/>
+<g fill="#f6c5f3" opacity=".8"><circle cx="80" cy="50" r="2"/><circle cx="260" cy="82" r="2"/><circle cx="490" cy="40" r="2"/><circle cx="760" cy="55" r="2"/><circle cx="1100" cy="180" r="2"/><circle cx="680" cy="320" r="2"/><circle cx="1030" cy="330" r="2"/></g>
+<path d="M0 340Q180 270 360 340T720 335T1200 330V420H0Z" fill="#100d22"/>
+<!-- distant Japanese rooftops -->
+<g fill="#17112d" stroke="#79509b" stroke-width="2" opacity=".8"><path d="M770 270h300l-35-18H805zM815 250l105-65 105 65zM845 185h150l-75-50zM900 135v-25h10v25"/></g>
+<!-- character hair silhouette -->
+<path d="M110 365Q65 250 125 115Q175 5 330 20Q495 30 520 190L475 370Z" fill="url(#hair)" stroke="#a56acb" stroke-width="4"/>
+<path d="M145 170Q155 25 310 30Q445 30 470 170Q420 115 385 95Q320 160 200 150Z" fill="#171126"/>
+<!-- shoulders / hoodie -->
+<path d="M115 420Q120 310 215 285Q310 250 405 292Q495 330 520 420Z" fill="#201832" stroke="#68427f" stroke-width="3"/>
+<!-- face -->
+<path d="M205 135Q230 78 325 82Q425 85 430 180L408 255Q375 310 310 300Q235 285 205 225Z" fill="#f4cbdc"/>
+<!-- bangs -->
+<path d="M175 174Q170 65 290 45Q420 38 458 145Q420 118 395 115Q370 185 330 194Q340 145 315 124Q285 190 245 204Q255 150 235 130Z" fill="url(#hair)"/>
+<path d="M205 185Q230 160 270 183M345 183Q380 160 411 184" fill="none" stroke="#39234d" stroke-width="7" stroke-linecap="round"/>
+<!-- eyes -->
+<ellipse cx="265" cy="207" rx="17" ry="23" fill="#3a2458"/><ellipse cx="375" cy="207" rx="17" ry="23" fill="#3a2458"/>
+<circle cx="270" cy="199" r="6" fill="#fff"/><circle cx="380" cy="199" r="6" fill="#fff"/>
+<path d="M305 250q18 13 34 0" fill="none" stroke="#bd6e9b" stroke-width="4" stroke-linecap="round"/>
+<circle cx="232" cy="242" r="13" fill="#e995b9" opacity=".55"/><circle cx="405" cy="242" r="13" fill="#e995b9" opacity=".55"/>
+<!-- headphones -->
+<path d="M170 205Q145 45 310 38Q465 35 455 205" fill="none" stroke="#a98aff" stroke-width="17"/><rect x="150" y="165" width="38" height="92" rx="16" fill="#5c3d85" stroke="#d6a5ff" stroke-width="4"/><rect x="440" y="165" width="38" height="92" rx="16" fill="#5c3d85" stroke="#d6a5ff" stroke-width="4"/><circle cx="169" cy="210" r="10" fill="#f3b9ff"/><circle cx="459" cy="210" r="10" fill="#f3b9ff"/>
+<!-- laptop -->
+<path d="M330 325h280l-24 70H350z" fill="#171329" stroke="#9c72c6" stroke-width="3"/><path d="M350 330h240l-17 53H368z" fill="#2a1c45"/><path d="M445 352h55m-55 12h82" stroke="#c88bfa" stroke-width="3" stroke-linecap="round"/>
+<!-- sakura -->
+<g fill="#f2aee8"><circle cx="90" cy="110" r="10"/><circle cx="75" cy="98" r="10"/><circle cx="105" cy="96" r="10"/><circle cx="106" cy="122" r="10"/><circle cx="76" cy="125" r="10"/><circle cx="90" cy="110" r="4" fill="#ffe5fa"/><circle cx="550" cy="85" r="9"/><circle cx="536" cy="72" r="9"/><circle cx="564" cy="72" r="9"/><circle cx="564" cy="99" r="9"/><circle cx="536" cy="99" r="9"/></g>
+<g font-family="Arial, sans-serif">
+ <text x="635" y="180" fill="#f5eaff" font-size="22" letter-spacing="5">HELLO, WORLD  ✦  こんにちは</text>
+ <text x="630" y="248" fill="url(#shine)" font-size="72" font-weight="800">mhndev3</text>
+ <text x="635" y="294" fill="#f5dff8" font-size="25">Full-Stack Developer · Problem Solver</text>
+ <text x="635" y="335" fill="#d7b9ed" font-size="21">夢をコードに — Turning dreams into code.</text>
+ <text x="635" y="378" fill="#c78eea" font-size="17" letter-spacing="4">CODE  •  CREATE  •  IMPROVE  ♡</text>
 </g>
-<g font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif">
-  <text x="74" y="135" fill="#fce8f3" font-size="23" letter-spacing="5">HELLO, WORLD ✿</text>
-  <text x="70" y="205" fill="#fff7fc" font-size="66" font-weight="800">Mahan Dev</text>
-  <text x="76" y="248" fill="#e5c9f3" font-size="22">Building thoughtful software, one commit at a time.</text>
-  <rect x="76" y="278" width="238" height="34" rx="17" fill="#ffffff" opacity=".12"/>
-  <text x="95" y="301" fill="#ffd6e8" font-size="15" letter-spacing="1.2">CODE • CREATE • REPEAT ♡</text>
-</g>
-<g fill="#f5bfd8" opacity=".8"><path d="M380 285c-9-10-20 2-9 11 8 6 14-3 9-11Zm-18 7c-13-5-16 10-4 13 9 2 11-9 4-13Zm15 16c-3 13 12 15 14 2 1-9-10-11-14-2Z"/></g>
 </svg>
