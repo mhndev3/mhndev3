@@ -195,7 +195,7 @@ A split frontend/backend architecture, with Django owning business logic and Nex
 
 ### Contribution activity
 
-<img width="100%" src="./assets/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
+<img width="100%" src="https://raw.githubusercontent.com/mhndev3/mhndev3/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
 
 <sub>The contribution animation is generated and hosted in this repository by GitHub Actions — no third-party chart server.</sub>
 
