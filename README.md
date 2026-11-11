@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/neon-sakura-banner.jpg" width="100%" alt="Mahan — neon sakura anime developer banner" />
+<h1>🌸 Mahan · マハン</h1>
+
+<p><em>Full-Stack Developer · 夢をコードに — Turning dreams into code.</em></p>
 
 <br/>
 
