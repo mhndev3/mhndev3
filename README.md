@@ -1,5 +1,13 @@
 <div align="center">
 
+<img
+  src="./profile-banner.png"
+  width="100%"
+  alt="Mahan - Anime Developer Banner"
+/>
+
+<br/>
+
 <h1>🌸 Mahan · マハン</h1>
 
 <p><em>Full-Stack Developer · 夢をコードに — Turning dreams into code.</em></p>
