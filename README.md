@@ -110,10 +110,48 @@ A split frontend/backend architecture, with Django owning business logic and Nex
 
 <div align="center">
 
-<a href="https://github.com/mhndev3/velavpn-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mhndev3&repo=velavpn-bot&theme=tokyonight&hide_border=true" width="49%" alt="VelaVPN Bot repository card" /></a>
-<a href="https://github.com/mhndev3/taksaz-yaragh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mhndev3&repo=taksaz-yaragh&theme=tokyonight&hide_border=true" width="49%" alt="Taksaz Yaragh repository card" /></a>
-<a href="https://github.com/mhndev3/Vedzmani"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mhndev3&repo=Vedzmani&theme=tokyonight&hide_border=true" width="49%" alt="Vedzmani repository card" /></a>
-<a href="https://github.com/mhndev3/Anteiku-cafe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mhndev3&repo=Anteiku-cafe&theme=tokyonight&hide_border=true" width="49%" alt="Anteiku repository card" /></a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mhndev3/velavpn-bot"><strong>🤖 VelaVPN Bot ↗</strong></a><br/>
+<sub>Persian Telegram VPN sales & provisioning</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/mhndev3/velavpn-bot?style=flat-square&color=d88be8&label=stars" alt="VelaVPN stars" />
+<img src="https://img.shields.io/github/languages/top/mhndev3/velavpn-bot?style=flat-square&color=9b8cff" alt="VelaVPN primary language" />
+<img src="https://img.shields.io/github/last-commit/mhndev3/velavpn-bot?style=flat-square&color=c18be8" alt="VelaVPN last commit" />
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mhndev3/taksaz-yaragh"><strong>🛍️ Taksaz Yaragh ↗</strong></a><br/>
+<sub>Industrial hardware & fittings e-commerce</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/mhndev3/taksaz-yaragh?style=flat-square&color=d88be8&label=stars" alt="Taksaz stars" />
+<img src="https://img.shields.io/github/languages/top/mhndev3/taksaz-yaragh?style=flat-square&color=9b8cff" alt="Taksaz primary language" />
+<img src="https://img.shields.io/github/last-commit/mhndev3/taksaz-yaragh?style=flat-square&color=c18be8" alt="Taksaz last commit" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mhndev3/Vedzmani"><strong>🧵 Vedzmani ↗</strong></a><br/>
+<sub>Fashion e-commerce · Next.js + Django</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/mhndev3/Vedzmani?style=flat-square&color=d88be8&label=stars" alt="Vedzmani stars" />
+<img src="https://img.shields.io/github/languages/top/mhndev3/Vedzmani?style=flat-square&color=9b8cff" alt="Vedzmani primary language" />
+<img src="https://img.shields.io/github/last-commit/mhndev3/Vedzmani?style=flat-square&color=c18be8" alt="Vedzmani last commit" />
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mhndev3/Anteiku-cafe"><strong>☕ Anteiku ↗</strong></a><br/>
+<sub>Custom software project platform foundation</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/mhndev3/Anteiku-cafe?style=flat-square&color=d88be8&label=stars" alt="Anteiku stars" />
+<img src="https://img.shields.io/github/languages/top/mhndev3/Anteiku-cafe?style=flat-square&color=9b8cff" alt="Anteiku primary language" />
+<img src="https://img.shields.io/github/last-commit/mhndev3/Anteiku-cafe?style=flat-square&color=c18be8" alt="Anteiku last commit" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -143,12 +181,23 @@ A split frontend/backend architecture, with Django owning business logic and Nex
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhndev3&theme=tokyonight" alt="GitHub contribution summary" />
+<img src="https://img.shields.io/github/followers/mhndev3?style=for-the-badge&logo=github&label=FOLLOWERS&color=ba83df" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/mhndev3?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=e7a0d7" alt="GitHub stars" />
+<img src="https://img.shields.io/github/commit-activity/y/mhndev3/velavpn-bot?style=for-the-badge&label=VELAVPN%20COMMITS&color=9b8cff" alt="VelaVPN yearly commits" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mhndev3&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhndev3&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used languages" />
+### Languages across my repositories
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhndev3&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+<img src="https://img.shields.io/github/languages/count/mhndev3/velavpn-bot?style=flat-square&label=VelaVPN%20languages&color=ba83df" alt="VelaVPN languages" />
+<img src="https://img.shields.io/github/languages/top/mhndev3/velavpn-bot?style=flat-square&label=VelaVPN%20main&color=ba83df" alt="VelaVPN primary language" />
+<img src="https://img.shields.io/github/languages/top/mhndev3/taksaz-yaragh?style=flat-square&label=Taksaz%20main&color=ba83df" alt="Taksaz primary language" />
+<img src="https://img.shields.io/github/languages/top/mhndev3/Vedzmani?style=flat-square&label=Vedzmani%20main&color=ba83df" alt="Vedzmani primary language" />
+<img src="https://img.shields.io/github/languages/top/mhndev3/Anteiku-cafe?style=flat-square&label=Anteiku%20main&color=ba83df" alt="Anteiku primary language" />
+
+### Contribution activity
+
+<img width="100%" src="./assets/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
+
+<sub>The contribution animation is generated and hosted in this repository by GitHub Actions — no third-party chart server.</sub>
 
 </div>
 
