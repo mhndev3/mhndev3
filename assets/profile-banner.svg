@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Mahan Dev — cute pastel developer profile</title>
+<desc id="desc">A pastel anime-inspired night sky with sakura petals, a tiny cat coding at a laptop, and the text Mahan Dev.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17152f"/><stop offset=".52" stop-color="#33264f"/><stop offset="1" stop-color="#68446f"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffc5dc"/><stop offset="1" stop-color="#b7c8ff"/></linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<circle cx="930" cy="95" r="110" fill="#f5a9cf" opacity=".18" filter="url(#blur)"/>
+<circle cx="180" cy="280" r="100" fill="#9e9aff" opacity=".18" filter="url(#blur)"/>
+<g fill="#fff1fa" opacity=".85"><circle cx="95" cy="65" r="2"/><circle cx="260" cy="110" r="2"/><circle cx="430" cy="42" r="1.8"/><circle cx="700" cy="75" r="2"/><circle cx="820" cy="230" r="1.7"/><circle cx="1080" cy="55" r="2"/><circle cx="1120" cy="270" r="1.5"/><circle cx="600" cy="300" r="1.6"/></g>
+<g fill="#ffc5dc" opacity=".9"><path d="M1030 145c-12-13-26 3-12 14 10 8 18-4 12-14Zm-23 8c-17-6-21 13-5 17 12 2 14-12 5-17Zm18 21c-4 17 16 19 18 3 1-12-13-14-18-3Zm22-18c14-11 1-26-11-14-8 9 2 18 11 14Z"/><circle cx="1031" cy="164" r="4" fill="#ffe8f3"/></g>
+<g transform="translate(835 95)">
+  <path d="M30 112c0-49 34-83 78-83s78 34 78 83v48H30z" fill="#f6dce9"/>
+  <path d="M44 55 28 13q-3-10 8-5l38 26M172 55l16-42q3-10-8-5l-38 26" fill="#f6dce9" stroke="#f6dce9" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M66 91q8-11 16 0M132 91q8-11 16 0" fill="none" stroke="#59435f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M101 105q6 7 12 0" fill="none" stroke="#d77fa7" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="58" cy="105" r="9" fill="#f2a6c7" opacity=".8"/><circle cx="157" cy="105" r="9" fill="#f2a6c7" opacity=".8"/>
+  <path d="M53 155q55-31 110 0v30H53z" fill="#c8b5ed"/>
+  <rect x="63" y="139" width="95" height="58" rx="8" fill="#34314f" stroke="#f8c6df" stroke-width="4"/>
+  <rect x="71" y="147" width="79" height="42" rx="4" fill="#a7c9ff"/>
+  <path d="M79 160h30m-30 8h44m-44 8h23" stroke="#514c78" stroke-width="3" stroke-linecap="round"/>
+  <path d="M48 198h125l-12 10H60z" fill="#f5c6df"/>
+</g>
+<g font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif">
+  <text x="74" y="135" fill="#fce8f3" font-size="23" letter-spacing="5">HELLO, WORLD ✿</text>
+  <text x="70" y="205" fill="#fff7fc" font-size="66" font-weight="800">Mahan Dev</text>
+  <text x="76" y="248" fill="#e5c9f3" font-size="22">Building thoughtful software, one commit at a time.</text>
+  <rect x="76" y="278" width="238" height="34" rx="17" fill="#ffffff" opacity=".12"/>
+  <text x="95" y="301" fill="#ffd6e8" font-size="15" letter-spacing="1.2">CODE • CREATE • REPEAT ♡</text>
+</g>
+<g fill="#f5bfd8" opacity=".8"><path d="M380 285c-9-10-20 2-9 11 8 6 14-3 9-11Zm-18 7c-13-5-16 10-4 13 9 2 11-9 4-13Zm15 16c-3 13 12 15 14 2 1-9-10-11-14-2Z"/></g>
+</svg>
